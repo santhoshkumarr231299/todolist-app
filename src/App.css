@@ -1,0 +1,28 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.list > .field {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* .all-list {
+  display: flex;
+  flex-direction: column;
+} */
+
+.all-list > button {
+  width: 100px;
+}
+
+.all-list > data {
+  display: flex;
+  gap: 20px;
+  width: 500px;
+  margin: auto;
+}
